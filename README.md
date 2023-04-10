@@ -22,12 +22,6 @@ python app.py
 Then,use your browser to visit:  
 **http://127.0.0.1:7860**
 
-# Star & Improvement
-
-如果你对这个仓库感兴趣，欢迎给我一个star，让更多的人知道这个简单但有趣的工具。我也非常乐意看到有人提交修改，帮助我改进这个软件的功能和性能。  
-If you are interested in this repository, welcome to give me a star to let more people know about this simple but interesting tool. I am happy to see someone submit changes that help me improve the functionality and performance of this software.  
-The deployment on the hugging face requires a GPU environment, but I don’t have funds, so it only supports running locally at present, thank you for your understanding
-
 # pip install ❤️
 - easyocr
 - gradio
