@@ -8,12 +8,6 @@ This repository contains the code for a Python application that analyzes text fr
 
 ![](images/comic.png)
 
-# Hi！
-
-我很高兴地宣布，我已经在GitHub上开源了一个结合OCR和GPT的文本识别软件。这个软件可以从图片中提取文本，并用GPT模型生成有意义的内容。你可以在这里找到我的项目:
-
-https://github.com/NowLoadY/OCR-GPT
-
 # Run
 First, in your terminal, type:  
 ```python
